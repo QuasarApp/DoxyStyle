@@ -809,6 +809,7 @@ div.header
 	background-color: #f8f8f8;
 	margin:  0px;
 	border: none;
+	max-width: 1200px;
 }
 div.headertitle
 {
